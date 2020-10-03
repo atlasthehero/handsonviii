@@ -4,7 +4,7 @@
 
 ### Who are we?
 
-<img src="Black and Red Gaming Logo.png" alt="hi" class="inline"/>
+<img src="Black and Red Gaming Logo.png" alt="" class=""/>
 
 We are a team of mechatronics engineers that always had dreamed with "The far far away", honing our skills every day hoping to help space exploration one day 
 and working to empower space and interplanetary exploration.
