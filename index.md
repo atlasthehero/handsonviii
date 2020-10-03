@@ -1,11 +1,12 @@
-## HandsOn VIII
+## NASA SpaceAPPS Create: Virtual planetary exploration - AquaSeeker 
 
 ======================================================================================
 
-### Quiénes somos
-### En qué creemos
+### Who are we?
+We are a small team of mechatronics engineers that always had dreamed with "The far far away", 
 
-Nuestro corazón pertenece a Hammud
+### In what we believe
+that robotics can help a lot in exploration providing value boosting exploration in general, in this case, mars exploration.
 
 ### Qué sabemos hacer y cómo pensamos atacar el problema
 ### Desarrollo técnico y con bases científicas de cómo desglosamos la problemática
