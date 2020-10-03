@@ -1,15 +1,23 @@
-## NASA SpaceAPPS Create: Virtual planetary exploration - AquaSeeker 
+##SpaceAPPS Create: Virtual planetary exploration - AquaSeeker 
 
-======================================================================================
+=============================================================
 
 ### Who are we?
-We are a small team of mechatronics engineers that always had dreamed with "The far far away", 
 
-### In what we believe
-that robotics can help a lot in exploration providing value boosting exploration in general, in this case, mars exploration.
+[Link](url) and ![Image](Black and Red Gaming Logo.png)
+We are a team of mechatronics engineers that always had dreamed with "The far far away", honing our skills every day hoping to help space exploration one day 
+and working to empower space and interplanetary exploration.
 
-### Qué sabemos hacer y cómo pensamos atacar el problema
-### Desarrollo técnico y con bases científicas de cómo desglosamos la problemática
+### Which is our north?
+We believe that robotics can help a lot in exploration providing value by boosting data collection and exploration in general, in this case, mars exploration. Putting cobots on the mars surface in order to cover faster the necessity of acquiring knowledge of our friendly neighbor.
+
+### In what we are good?
+Our team covers different areas, just like electronics, mechanics, physics, generative design, artificial intelligence, embedded systems, 3d printing, and robotics.
+
+Even tho, we had done several personal projects about aerospace and aerodynamic design.
+
+### Cientific and technical process 
+
 ### Modelo 3D
 ### Videos de interacción con el modelo 3d
 ### Posible impacto en la misión de Marte
@@ -41,10 +49,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Documentation
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atlasthehero/handsonviii/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Thanks for reading us!
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
