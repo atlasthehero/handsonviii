@@ -21,9 +21,27 @@ Even tho, we had done several personal projects about aerospace and aerodynamic 
 
 ### Cientific and technical process 
 
-At first, we identify and classify the most important things the humans are looking for in the exploration of Mars. There we choose as the most valuable thing must be water.
+At first, we identify the most important variables that humans are looking for in the exploration of Mars. There we found that the most valuable thing it's water, because the development of life is extremely related with water sources, and it's a key factor for the colonization of Mars.
 
-From there, we choose that 
+From there, we investigate which artifact could identify water below the surface, and found out that the Rover recently sent to Mars, Perseverance, has a module that can do that task. This module it's called RIMFAX and...
+
+As soon as we set the goal, we began to brainstorm possible solutions involving the RIMFAX module to find water on Mars. From this process we conclude that this task must be carried out efficiently and quickly, since finding water on Mars would exponentially accelerate the colonization of that planet. By priority, we propose a swarm of autonomous collaborative robots, capable of exploring the entire surface of Mars.
+
+These robots would have the following elements for Martian exploration:
+
+-	The robot body will be made of rugged materials to protect the electronics inside and will have heaters to keep all electronic components in proper operation.
+-	Central processing unit where all decisions will be made.
+-	Temperature sensor to transmit its value to the CPU and this control the heaters.
+-	Battery level sensor
+-	Inertial Measurement Unit (IMU) to identify and control the robot's imbalance and prevent the robot from overturning.
+-	For navigation we will implement a LIDAR.
+-	For power generation we will implement solar panels.
+-	Its traction system will be using mecanum wheels with electric motors directly connected to these wheels, thus avoiding a steering system.
+-	Antennas to communicate with satellites to report their status, and their location in case of finding groundwater.
+
+These robots would reach the Martian surface through a similar capsule in which astronauts from the Apollo 11 mission arrived. When you opened the gate, they would go out in different directions in search of water sources.
+
+
 ### Modelo 3D
 ### Videos de interacción con el modelo 3d
 ### Posible impacto en la misión de Marte
