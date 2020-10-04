@@ -23,9 +23,11 @@ Even tho, we had done several personal projects about aerospace and aerodynamic 
 
 At first, we identify the most important variables that humans are looking for in the exploration of Mars. To do this, we base ourselves on the 4 scientific objectives that the Mars Exploration Program has as its principle:
 
-<img src="Nasa_Objectives.png" class="center" width="1300" height="591"/>
+<img src="Nasa_Objectives.png" class="center" width="1300" height="250"/>
 
-<caption><center> <u> <font color='black'> Figure 1 </u><font color='black'> : Scientifc Objective of Mars Exploration Program <br> Recovered from: https://mars.nasa.gov/mars2020/mission/overview/ </center></caption>
+<center>Center this text!</center>
+
+
  
 There we found that the most valuable thing it's water, because the development of life is extremely related with water sources, and it's a key factor for the colonization of Mars.
 
