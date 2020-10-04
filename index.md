@@ -75,7 +75,7 @@ These robots would have the following elements for Martian exploration:
 
 These robots would reach the Martian surface through a similar capsule in which astronauts from the Apollo 11 mission arrived. When the gate is opened, they would go out in different directions in search of water sources.
 
-# Solar Energy usage as main power source
+### Solar Energy usage as main power source
 
 Getting the most out of the solar energy that a solar cell receives is a complex design job. In general, the energy obtained E (W) from a solar panel is defined by means of the following general expression:
 
@@ -88,6 +88,11 @@ Where:
 - <img src="https://render.githubusercontent.com/render/math?math=\P_{r}"> is the performance ratio, for which defines the losses due to energy conversion, which usually oscillates between 0.5 and 0.9. 
 
 The variable factor within the expression is the solar irradiation, which depends on both the Martian season of the year and the latitude on which the device is located.
+
+Thanks to the data obtained by the Rover missions through the Rover Environmental Monitoring Station (REMS), within which are the data collected by Curiosity, a table was built in which the energy produced by a 1 <img src="https://render.githubusercontent.com/render/math?math=m^{2}"> panel is presented, with <img src="https://render.githubusercontent.com/render/math?math=\eta=0.447"> and <img src="https://render.githubusercontent.com/render/math?math=\P_{r}=0.75">, depending on the Martian season and latitude:
+
+<img src="/Images/Table_energy_production.png" class="center" width="1476" height="160"/>
+<caption><center> <u> <font color='black'> Figure 4</u><font color='black'> : Daily solar power (W) production for a 1 <img src="https://render.githubusercontent.com/render/math?math=m^{2}"> panel (<img src="https://render.githubusercontent.com/render/math?math=\eta=0.447">; <img src="https://render.githubusercontent.com/render/math?math=\P_{r}=0.75">) as a function of latitude and season. <br> Recovered from: https://www.researchgate.net/publication/298431734_Solar_and_wind_exergy_potentials_for_Mars </center></caption>
 
 ### Modelo 3D
 ### Videos de interacción con el modelo 3d
