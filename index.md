@@ -73,13 +73,21 @@ These robots would have the following elements for Martian exploration:
 -	Its traction system will be using mechanum wheels with electric motors directly connected to these wheels, thus avoiding a steering system.
 -	Antennas to communicate with satellites to report their status, and their location in case of finding groundwater.
 
-These robots would reach the Martian surface through a similar capsule in which astronauts from the Apollo 11 mission arrived. When you opened the gate, they would go out in different directions in search of water sources.
+These robots would reach the Martian surface through a similar capsule in which astronauts from the Apollo 11 mission arrived. When the gate is opened, they would go out in different directions in search of water sources.
 
+# Solar Energy usage as main power source
 
-
-e^{i \pi} = -1
+Getting the most out of the solar energy that a solar cell receives is a complex design job. In general, the energy obtained E (W) from a solar panel is defined by means of the following general expression:
 
 <img src="https://render.githubusercontent.com/render/math?math=E = A * \eta * \phi * P_{r}">
+
+Where:
+<img src="https://render.githubusercontent.com/render/math?math=A"> is the total area of the panel (<img src="https://render.githubusercontent.com/render/math?math=m^{2}">); 
+<img src="https://render.githubusercontent.com/render/math?math=\eta"> is the performance of the panel (%);
+<img src="https://render.githubusercontent.com/render/math?math=\phi"> is the solar irradiation reached by the panel (<img src="https://render.githubusercontent.com/render/math?math=W / m^{2}">);
+<img src="https://render.githubusercontent.com/render/math?math=\P_{r}"> is the performance ratio, for which defines the losses due to energy conversion, which usually oscillates between 0.5 and 0.9. 
+
+The variable factor within the expression is the solar irradiation, which depends on both the Martian season of the year and the latitude on which the device is located.
 
 ### Modelo 3D
 ### Videos de interacción con el modelo 3d
