@@ -9,12 +9,12 @@
 We are a team of mechatronics engineers that always had dreamed with "The far far away", honing our skills every day hoping to help space exploration one day 
 and working to empower space and interplanetary exploration.
 
-Am... Hands ON VIII? Yes! it was the name of a series of courses that we had in college, that we thought it ended in Hands ON VII but... Voilá
+Am... Hands ON VIII? Yes! it was the name of a series of robotics and project management courses that we had in college, that we thought it ended in Hands ON VII but... Voilá
 
 ### Which is our north?
 We believe that robotics can help a lot in exploration providing value by boosting data collection and exploration in general, in this case, mars exploration. Putting cobots on the mars surface in order to cover faster the necessity of acquiring knowledge of our friendly neighbor.
 
-### In what we are good?
+### What we are good in?
 Our team covers different areas, just like electronics, mechanics, physics, generative design, artificial intelligence, embedded systems, 3d printing, and robotics.
 
 Even tho, we had done several personal projects about aerospace and aerodynamic design.
