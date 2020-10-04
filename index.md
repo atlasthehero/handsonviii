@@ -45,6 +45,9 @@ This leaves us with the last two candidates: MEDA and RIMFAX. A large part of th
 
 On the other hand, the information captured by the RIMFAX depends on the place where the mobile is placed, so that the information ratio obtained increases depending on the amount that is spread out, finally causing the efficiency of information capture to increase. One of the main objective is to find water and ice signs (if not liquid water itself) under the martian surface, and this device is the first of its category inserted onto a Rover capable of capture many geological features with no need to put a drill on the ground. []
 
+<img src="/Images/RIMFAX.png" class="center" width="1124" height="394"/>
+<caption><center> <u> <font color='black'> Figure 3</u><font color='black'> : RIMFAX <br> The instrument is composed of an electronics box, installed within the interior of the rover, and a nadir-point antenna affixed to the exterior (rear) of the rover. Recovered from: https://mars.nasa.gov/mars2020/spacecraft/rover/ </center></caption>
+
 ## Project overview
 
 As soon as we set this selection, we began to brainstorm possible solutions involving the RIMFAX module to find water on Mars. From this process we conclude that this task must be carried out efficiently and quickly, since finding water on Mars would exponentially accelerate the colonization of that planet. By priority, we propose a swarm of autonomous collaborative robots, capable of exploring the entire surface of Mars.
