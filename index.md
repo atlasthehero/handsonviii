@@ -43,27 +43,22 @@ Finally, taking into account the **Measured variables or main objective** factor
 
 This leaves us with the last two candidates: MEDA and RIMFAX. A large part of the variables obtained by MEDA are uniform, at least within a large spatial range on the Mars surface, and the variations that would be obtained when positioning several of these sensors in autonomous units whose maximum distance radius with respect to the ROVER does not would exceed 500 m (for communication issues) are minimal or imperceptible. This indicates that, similar to the factor previously addressed, the efficiency in information capture would not increase.
 
-On the other hand, the information captured by the RIMFAX depends on the place where the mobile is placed, so that the information ratio obtained increases depending on the amount that is spread out, finally causing the efficiency of information capture to increase.
+On the other hand, the information captured by the RIMFAX depends on the place where the mobile is placed, so that the information ratio obtained increases depending on the amount that is spread out, finally causing the efficiency of information capture to increase. One of the main objective is to find water and ice signs (if not liquid water itself) under the martian surface, and this device is the first of its category inserted onto a Rover capable of capture many geological features with no need to put a drill on the ground. []
 
+## Project overview
 
-
-
-
-
-
-
-As soon as we set the goal, we began to brainstorm possible solutions involving the RIMFAX module to find water on Mars. From this process we conclude that this task must be carried out efficiently and quickly, since finding water on Mars would exponentially accelerate the colonization of that planet. By priority, we propose a swarm of autonomous collaborative robots, capable of exploring the entire surface of Mars.
+As soon as we set this selection, we began to brainstorm possible solutions involving the RIMFAX module to find water on Mars. From this process we conclude that this task must be carried out efficiently and quickly, since finding water on Mars would exponentially accelerate the colonization of that planet. By priority, we propose a swarm of autonomous collaborative robots, capable of exploring the entire surface of Mars.
 
 These robots would have the following elements for Martian exploration:
 
--	The robot body will be made of rugged materials to protect the electronics inside and will have heaters to keep all electronic components in proper operation.
+-	The robot body will be made of rugged materials to protect the electronics inside and will have heaters to keep all electronic components in proper operation. Similar components can be found into the Rovers missions and the recent Ingenuity (from Perseverance mission). []
 -	Central processing unit where all decisions will be made.
 -	Temperature sensor to transmit its value to the CPU and this control the heaters.
 -	Battery level sensor
 -	Inertial Measurement Unit (IMU) to identify and control the robot's imbalance and prevent the robot from overturning.
--	For navigation we will implement a LIDAR.
--	For power generation we will implement solar panels.
--	Its traction system will be using mecanum wheels with electric motors directly connected to these wheels, thus avoiding a steering system.
+-	For navigation we will implement a LIDAR device.
+-	For power generation we will implement solar panels. It is proved that this power resource is adequate for this devices. As an example, the Ingenuity works with solar power, which energy is contained later in a battery pack. []
+-	Its traction system will be using mechanum wheels with electric motors directly connected to these wheels, thus avoiding a steering system.
 -	Antennas to communicate with satellites to report their status, and their location in case of finding groundwater.
 
 These robots would reach the Martian surface through a similar capsule in which astronauts from the Apollo 11 mission arrived. When you opened the gate, they would go out in different directions in search of water sources.
