@@ -33,7 +33,7 @@ In order to make our autonomous system essentially useful for the mission, we id
 To choose this instrument, we are based on some criteria related to the importance that this instrument brings within the objectives, weight and energy consumption. This categorization is based on the need to have a reduced body volume of each autonomous unit, which brings with it a low energy consumption inherent to the reduced load capacity. The following table contains specific information from the various instruments regarding the criteria mentioned above:
 
 <img src="/Images/Instruments_Table.png" class="center" width="608" height="599"/>
-<caption><center> <u> <font color='black'> Figure 2 </u><font color='black'> : List of instruments mounted on Rover Perseverance <br> Recovered from: https://mars.nasa.gov/mars2020/spacecraft/rover/ </center></caption>
+<caption><center> <u> <font color='black'> Figure 2</u><font color='black'> : List of instruments mounted on Rover Perseverance <br> Recovered from: https://mars.nasa.gov/mars2020/spacecraft/rover/ </center></caption>
 
 
 
