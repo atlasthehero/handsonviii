@@ -24,14 +24,7 @@ Even tho, we had done several personal projects about aerospace and aerodynamic 
 At first, we identify the most important variables that humans are looking for in the exploration of Mars. To do this, we base ourselves on the 4 scientific objectives that the Mars Exploration Program has as its principle:
 
 <img src="/Images/Nasa_Objectives.png" class="center" width="1300" height="300"/>
-<caption><center> <u> <font color='black'> Figure 1 </u><font color='black'> : Scientifc Objective of Mars Exploration Program <br> Recovered from:  <a href="https://mars.nasa.gov/mars2020/mission/overview/" title="HOLA">About Me</a> </center></caption>
- 
- <br>
- <br/>
- 
-
- 
-
+<caption><center> <u> <font color='black'> Figure 1 </u><font color='black'> : Scientifc Objective of Mars Exploration Program <br> Source:  <a href="https://mars.nasa.gov/mars2020/mission/overview/" title="Mission overview">NAAS-Perseverance mission overview</a> </center></caption>
  
  <br>
  <br/>
@@ -43,7 +36,7 @@ In order to make our autonomous system essentially useful for the mission, we id
 To choose this instrument, we are based on some criteria related to the importance that this instrument brings within the objectives, weight and energy consumption. This categorization is based on the need to have a reduced body volume of each autonomous unit, which brings with it a low energy consumption inherent to the reduced load capacity. The following table contains specific information from the various instruments regarding the criteria mentioned above:
 
 <img src="/Images/Instruments_Table.png" class="center" width="608" height="599"/>
-<caption><center> <u> <font color='black'> Figure 2</u><font color='black'> : List of instruments mounted on Rover Perseverance <br> Recovered from: https://mars.nasa.gov/mars2020/spacecraft/rover/ </center></caption>
+<caption><center> <u> <font color='black'> Figure 2</u><font color='black'> : List of instruments mounted on Rover Perseverance <br> Source:  <a href="https://mars.nasa.gov/mars2020/spacecraft/rover" title="Perseverance Summary">NASA-Perseverance summary</a> </center></caption>
  
  <br>
  <br/>
@@ -59,7 +52,7 @@ This leaves us with the last two candidates: MEDA and RIMFAX. A large part of th
 On the other hand, the information captured by the RIMFAX depends on the place where the mobile is placed, so that the information ratio obtained increases depending on the amount that is spread out, finally causing the efficiency of information capture to increase. One of the main objective is to find water and ice signs (if not liquid water itself) under the martian surface, and this device is the first of its category inserted onto a Rover capable of capture many geological features with no need to put a drill on the ground. []
 
 <img src="/Images/RIMFAX.png" class="center" width="1124" height="394"/>
-<caption><center> <u> <font color='black'> Figure 3</u><font color='black'> : RIMFAX <br> The instrument is composed of an electronics box, installed within the interior of the rover, and a nadir-point antenna affixed to the exterior (rear) of the rover. Recovered from: https://mars.nasa.gov/mars2020/spacecraft/rover/ </center></caption>
+<caption><center> <u> <font color='black'> Figure 3</u><font color='black'> : RIMFAX <br> The instrument is composed of an electronics box, installed within the interior of the rover, and a nadir-point antenna affixed to the exterior (rear) of the rover. Source: <a href="https://mars.nasa.gov/mars2020/spacecraft/rover" title="Perseverance Summary">NASA-Perseverance summary</a> </center></caption>
  
  <br>
  <br/>
@@ -99,7 +92,7 @@ The variable factor within the expression is the solar irradiation, which depend
 Thanks to the data obtained by the Rover missions through the Rover Environmental Monitoring Station (REMS), within which are the data collected by Curiosity, a table was built in which the energy produced by a <img src="https://render.githubusercontent.com/render/math?math=1 m^{2}"> panel is presented, with <img src="https://render.githubusercontent.com/render/math?math=\eta=0.447"> and <img src="https://render.githubusercontent.com/render/math?math=\P_{r}=0.75">, depending on the Martian season and latitude:
 
 <img src="/Images/Table_energy_production.png" class="center" width="1476" height="140"/>
-<caption><center> <u> <font color='black'> Figure 4</u><font color='black'> : Daily solar power (W) production for a 1 m2 panel (\eta=0.447; \phi=0.75) as a function of latitude and season. <br> Recovered from: https://www.researchgate.net/publication/298431734_Solar_and_wind_exergy_potentials_for_Mars </center></caption>
+<caption><center> <u> <font color='black'> Figure 4</u><font color='black'> : Daily solar power (W) production for a 1 m2 panel (\eta=0.447; \phi=0.75) as a function of latitude and season. <br> Source:  <a href="https://www.researchgate.net/publication/298431734_Solar_and_wind_exergy_potentials_for_Mars" title="Solar and wind exergy potentials for Mars">Solar and wind exergy potentials for Mars</a> </center></caption>
  
  <br>
  <br/>
@@ -107,7 +100,9 @@ Thanks to the data obtained by the Rover missions through the Rover Environmenta
 In general, the various Martian exploration missions land in latitudes ranging from -30° to 30°. Based on this important factor, it can be seen in the table that on average the high rates of energy produced are located precisely in this range, regardless of the season of the year. The following image shows an interactive image map of the global topography of Mars, visualizing longitude in the X-axis, and latitude in the Y-axis within the map:
 
 <img src="/Images/Interactive_map.png" class="center" width="1494" height="700"/>
-<caption><center> <u> <font color='black'> Figure 5</u><font color='black'> : interactive image map of the global topography of Mars, overlain with locations of Mars landers and rovers <br> Recovered from: https://en.wikipedia.org/wiki/Mars_landing#Landing_site_locations </center></caption>
+<caption><center> <u> <font color='black'> Figure 5</u><font color='black'> : interactive image map of the global topography of Mars, overlain with locations of Mars landers and rovers <br> Source: <a href="https://en.wikipedia.org/wiki/Mars_landing#Landing_site_locations" title="Landing site locations">Landing site locations</a> </center></caption>
+ 
+  
 
 
 ### Modelo 3D
