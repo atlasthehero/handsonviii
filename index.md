@@ -4,7 +4,7 @@
 
 ### Who are we?
 
-<img src="/Images/Black and Red Gaming Logo.png" alt="" class="center" width="300" height="300"/>
+<img src="Black and Red Gaming Logo.png" alt="" class="center" width="300" height="300"/>
 
 We are a team of mechatronics engineers that always had dreamed with "The far far away", honing our skills every day hoping to help space exploration one day 
 and working to empower space and interplanetary exploration.
@@ -32,7 +32,8 @@ In order to make our autonomous system essentially useful for the mission, we id
 
 To choose this instrument, we are based on some criteria related to the importance that this instrument brings within the objectives, weight and energy consumption. This categorization is based on the need to have a reduced body volume of each autonomous unit, which brings with it a low energy consumption inherent to the reduced load capacity. The following table contains specific information from the various instruments regarding the criteria mentioned above:
 
-
+<img src="/Images/Instruments_Table.png" class="center" width="608" height="599"/>
+<caption><center> <u> <font color='black'> Figure 1 </u><font color='black'> : Scientifc Objective of Mars Exploration Program <br> Recovered from: https://mars.nasa.gov/mars2020/mission/overview/ </center></caption>
 
 
 
