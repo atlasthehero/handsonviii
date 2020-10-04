@@ -49,7 +49,7 @@ Finally, taking into account the **Measured variables or main objective** factor
 
 This leaves us with the last two candidates: MEDA and RIMFAX. A large part of the variables obtained by MEDA are uniform, at least within a large spatial range on the Mars surface, and the variations that would be obtained when positioning several of these sensors in autonomous units whose maximum distance radius with respect to the ROVER does not would exceed 500 m (for communication issues) are minimal or imperceptible. This indicates that, similar to the factor previously addressed, the efficiency in information capture would not increase.
 
-On the other hand, the information captured by the RIMFAX depends on the place where the mobile is placed, so that the information ratio obtained increases depending on the amount that is spread out, finally causing the efficiency of information capture to increase. One of the main objective is to find water and ice signs (if not liquid water itself) under the martian surface, and this device is the first of its category inserted onto a Rover capable of capture many geological features with no need to put a drill on the ground. <a href="https://mars.nasa.gov/mars2020/spacecraft/instruments/rimfax/" title="RIMFAX instrument">RIMFAX instrument</a>
+On the other hand, the information captured by the RIMFAX depends on the place where the mobile is placed, so that the information ratio obtained increases depending on the amount that is spread out, finally causing the efficiency of information capture to increase. One of the main objective is to find water and ice signs (if not liquid water itself) under the martian surface, and this device is the first of its category inserted onto a Rover capable of capture many geological features with no need to put a drill on the ground. (Source: <a href="https://mars.nasa.gov/mars2020/spacecraft/instruments/rimfax/" title="RIMFAX instrument">RIMFAX instrument</a>)
 
 <img src="/Images/RIMFAX.png" class="center" width="1124" height="394"/>
 <caption><center> <u> <font color='black'> Figure 3</u><font color='black'> : RIMFAX <br> The instrument is composed of an electronics box, installed within the interior of the rover, and a nadir-point antenna affixed to the exterior (rear) of the rover. Source: <a href="https://mars.nasa.gov/mars2020/spacecraft/rover" title="Perseverance Summary">NASA-Perseverance summary</a> </center></caption>
@@ -63,13 +63,14 @@ As soon as we set this selection, we began to brainstorm possible solutions invo
 
 These robots would have the following elements for Martian exploration:
 
--	The robot body will be made of rugged materials to protect the electronics inside and will have heaters to keep all electronic components in proper operation. Similar components can be found into the Rovers missions and the recent Ingenuity (from Perseverance mission). []
+-	The robot body will be made of rugged materials to protect the electronics inside and will have heaters to keep all electronic components in proper operation. Similar components can be found into the Rovers missions and the recent Ingenuity (from Perseverance mission). (Source: <a href="https://mars.nasa.gov/technology/helicopter/" title="Ingenuity">Ingenuity</a>)
 -	Central processing unit where all decisions will be made.
 -	Temperature sensor to transmit its value to the CPU and this control the heaters.
 -	Battery level sensor
 -	Inertial Measurement Unit (IMU) to identify and control the robot's imbalance and prevent the robot from overturning.
 -	For navigation we will implement a LIDAR device.
--	For power generation we will implement solar panels. It is proved that this power resource is adequate for this devices. As an example, the Ingenuity works with solar power, which energy is contained later in a battery pack. []
+-	For power generation we will implement solar panels. It is proved that this power resource is adequate for this devices. As an example, the Ingenuity works with solar power, which energy is contained later in a battery pack. (Source: <a href="https://mars.nasa.gov/mer/mission/technology/power/" title="Technologies of Broad Benefit:
+Power">Technologies of Broad Benefit: Power</a> , <a href="https://mars.nasa.gov/files/mars2020/MarsHelicopterIngenuity_FactSheet.pdf" title="NASA Ingenuity Factsheet">NASA Ingenuity Factsheet</a>)
 -	Its traction system will be using mechanum wheels with electric motors directly connected to these wheels, thus avoiding a steering system.
 -	Antennas to communicate with satellites to report their status, and their location in case of finding groundwater.
 
