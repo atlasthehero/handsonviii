@@ -99,7 +99,7 @@ Thanks to the data obtained by the Rover missions through the Rover Environmenta
 
 In general, the various Martian exploration missions land in latitudes ranging from -30° to 30°. Based on this important factor, it can be seen in the table that on average the high rates of energy produced are located precisely in this range, regardless of the season of the year. The following image shows an interactive image map of the global topography of Mars, visualizing longitude in the X-axis, and latitude in the Y-axis within the map:
 
-<img src="/Images/Table_energy_production.png" class="center" width="1494" height="840"/>
+<img src="/Images/Interactive_map.png" class="center" width="1494" height="840"/>
 <caption><center> <u> <font color='black'> Figure 5</u><font color='black'> : interactive image map of the global topography of Mars, overlain with locations of Mars landers and rovers <br> Recovered from: https://en.wikipedia.org/wiki/Mars_landing#Landing_site_locations </center></caption>
 
 
