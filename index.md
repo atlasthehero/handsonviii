@@ -37,6 +37,9 @@ To choose this instrument, we are based on some criteria related to the importan
 
 <img src="/Images/Instruments_Table.png" class="center" width="608" height="599"/>
 <caption><center> <u> <font color='black'> Figure 2</u><font color='black'> : List of instruments mounted on Rover Perseverance <br> Recovered from: https://mars.nasa.gov/mars2020/spacecraft/rover/ </center></caption>
+ 
+ <br>
+ <br/>
 
 When choosing the instrument, it is important to compare the various factors grouped in the table above. Regarding the **Power consumption** factor, it is observed that those related to the analysis of rocks and capture of graphic information (SHERLOC / WATSON, Mastcam-Z, SuperCam and PIXL) have a high energy consumption, and by far there is the chemical conversion instrument, which consumes the most (300 W). The MEDA and RIMFAX are among the least energy consumption, therefore, within this factor, they are possible candidates to choose from.
 
@@ -50,6 +53,9 @@ On the other hand, the information captured by the RIMFAX depends on the place w
 
 <img src="/Images/RIMFAX.png" class="center" width="1124" height="394"/>
 <caption><center> <u> <font color='black'> Figure 3</u><font color='black'> : RIMFAX <br> The instrument is composed of an electronics box, installed within the interior of the rover, and a nadir-point antenna affixed to the exterior (rear) of the rover. Recovered from: https://mars.nasa.gov/mars2020/spacecraft/rover/ </center></caption>
+ 
+ <br>
+ <br/>
 
 ## Project overview
 
@@ -73,6 +79,9 @@ These robots would reach the Martian surface through a similar capsule in which 
 ### Modelo 3D
 ### Videos de interacción con el modelo 3d
 ### Posible impacto en la misión de Marte
+
+
+
 ### Cierre y video
 
 ======================================================================================
