@@ -82,10 +82,10 @@ Getting the most out of the solar energy that a solar cell receives is a complex
 <img src="https://render.githubusercontent.com/render/math?math=E = A * \eta * \phi * P_{r}">
 
 Where:
--<img src="https://render.githubusercontent.com/render/math?math=A"> is the total area of the panel (<img src="https://render.githubusercontent.com/render/math?math=m^{2}">); 
--<img src="https://render.githubusercontent.com/render/math?math=\eta"> is the performance of the panel (%);
--<img src="https://render.githubusercontent.com/render/math?math=\phi"> is the solar irradiation reached by the panel (<img src="https://render.githubusercontent.com/render/math?math=W / m^{2}">);
--<img src="https://render.githubusercontent.com/render/math?math=\P_{r}"> is the performance ratio, for which defines the losses due to energy conversion, which usually oscillates between 0.5 and 0.9. 
+- <img src="https://render.githubusercontent.com/render/math?math=A"> is the total area of the panel (<img src="https://render.githubusercontent.com/render/math?math=m^{2}">); 
+- <img src="https://render.githubusercontent.com/render/math?math=\eta"> is the performance of the panel (%);
+- <img src="https://render.githubusercontent.com/render/math?math=\phi"> is the solar irradiation reached by the panel (<img src="https://render.githubusercontent.com/render/math?math=W / m^{2}">);
+- <img src="https://render.githubusercontent.com/render/math?math=\P_{r}"> is the performance ratio, for which defines the losses due to energy conversion, which usually oscillates between 0.5 and 0.9. 
 
 The variable factor within the expression is the solar irradiation, which depends on both the Martian season of the year and the latitude on which the device is located.
 
