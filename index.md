@@ -94,6 +94,9 @@ Thanks to the data obtained by the Rover missions through the Rover Environmenta
 <img src="/Images/Table_energy_production.png" class="center" width="1476" height="160"/>
 <caption><center> <u> <font color='black'> Figure 4</u><font color='black'> : Daily solar power (W) production for a <img style="float:left;" src="https://render.githubusercontent.com/render/math?math=1 m^{2}"/>panel (<img src="https://render.githubusercontent.com/render/math?math=\eta=0.447">; <img src="https://render.githubusercontent.com/render/math?math=\P_{r}=0.75">) as a function of latitude and season. <br> Recovered from: https://www.researchgate.net/publication/298431734_Solar_and_wind_exergy_potentials_for_Mars </center></caption>
 
+[Link]("https://render.githubusercontent.com/render/math?math=1 m^{2}")
+[Link]("https://render.githubusercontent.com/render/math?math=1 m^{2}")
+
 ### Modelo 3D
 ### Videos de interacción con el modelo 3d
 ### Posible impacto en la misión de Marte
