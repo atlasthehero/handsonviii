@@ -23,7 +23,7 @@ Even tho, we had done several personal projects about aerospace and aerodynamic 
 
 At first, we identify the most important variables that humans are looking for in the exploration of Mars. There we found that the most valuable thing it's water, because the development of life is extremely related with water sources, and it's a key factor for the colonization of Mars.
 
-From there, we investigate which artifact could identify water below the surface, and found out that the Rover recently sent to Mars, Perseverance, has a module that can do that task. This module it's called RIMFAX and...
+From there, we investigate which artifact could identify water below the surface, and found out that the Rover recently sent to Mars, Perseverance, has a module that can do such task. This module it's called RIMFAX and...
 
 As soon as we set the goal, we began to brainstorm possible solutions involving the RIMFAX module to find water on Mars. From this process we conclude that this task must be carried out efficiently and quickly, since finding water on Mars would exponentially accelerate the colonization of that planet. By priority, we propose a swarm of autonomous collaborative robots, capable of exploring the entire surface of Mars.
 
