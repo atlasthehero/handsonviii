@@ -92,10 +92,16 @@ The variable factor within the expression is the solar irradiation, which depend
 Thanks to the data obtained by the Rover missions through the Rover Environmental Monitoring Station (REMS), within which are the data collected by Curiosity, a table was built in which the energy produced by a <img src="https://render.githubusercontent.com/render/math?math=1 m^{2}"> panel is presented, with <img src="https://render.githubusercontent.com/render/math?math=\eta=0.447"> and <img src="https://render.githubusercontent.com/render/math?math=\P_{r}=0.75">, depending on the Martian season and latitude:
 
 <img src="/Images/Table_energy_production.png" class="center" width="1476" height="160"/>
-<caption><center> <u> <font color='black'> Figure 4</u><font color='black'> : Daily solar power (W) production for a <img style="float:left;" src="https://render.githubusercontent.com/render/math?math=1 m^{2}"/>panel (<img src="https://render.githubusercontent.com/render/math?math=\eta=0.447">; <img src="https://render.githubusercontent.com/render/math?math=\P_{r}=0.75">) as a function of latitude and season. <br> Recovered from: https://www.researchgate.net/publication/298431734_Solar_and_wind_exergy_potentials_for_Mars </center></caption>
+<caption><center> <u> <font color='black'> Figure 4</u><font color='black'> : Daily solar power (W) production for a 1 m2 panel (\eta=0.447; \phi=0.75) as a function of latitude and season. <br> Recovered from: https://www.researchgate.net/publication/298431734_Solar_and_wind_exergy_potentials_for_Mars </center></caption>
+ 
+ <br>
+ <br/>
 
-[Link]("https://render.githubusercontent.com/render/math?math=1 m^{2}")
-[Link]("https://render.githubusercontent.com/render/math?math=1 m^{2}")
+In general, the various Martian exploration missions land in latitudes ranging from -30° to 30°. Based on this important factor, it can be seen in the table that on average the high rates of energy produced are located precisely in this range, regardless of the season of the year. The following image shows an interactive image map of the global topography of Mars, visualizing longitude in the X-axis, and latitude in the Y-axis within the map:
+
+<img src="/Images/Table_energy_production.png" class="center" width="1494" height="840"/>
+<caption><center> <u> <font color='black'> Figure 5</u><font color='black'> : interactive image map of the global topography of Mars, overlain with locations of Mars landers and rovers <br> Recovered from: https://en.wikipedia.org/wiki/Mars_landing#Landing_site_locations </center></caption>
+
 
 ### Modelo 3D
 ### Videos de interacción con el modelo 3d
@@ -131,7 +137,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Documentation
+### Documentation-
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atlasthehero/handsonviii/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
