@@ -109,7 +109,7 @@ In general, the various Martian exploration missions land on latitudes ranging f
 Finally, having all the features and research in hand, we concluded that this is the final engineering design:
 
 <img src="/Images/Robot_Dog.png" class="center" width="522" height="637"/>
-<caption><center> <u> <font color='black'> Figure 3</u><font color='black'> : RIMFAX <br> The instrument is composed of an electronics box, installed within the interior of the rover, and a nadir-point antenna affixed to the exterior (rear) of the rover. Source: <a href="https://mars.nasa.gov/mars2020/spacecraft/rover" title="Perseverance Summary">NASA-Perseverance summary</a> </center></caption>
+<caption><center> <u> <font color='black'> Figure 7</u><font color='black'> : The best robot so far hawhawhaw <br> The instrument is composed of an electronics box, installed within the interior of the rover, and a nadir-point antenna affixed to the exterior (rear) of the rover. Source: <a href="https://mars.nasa.gov/mars2020/spacecraft/rover" title="Perseverance Summary">NASA-Perseverance summary</a> </center></caption>
   
 
 
