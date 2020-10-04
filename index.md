@@ -35,7 +35,15 @@ To choose this instrument, we are based on some criteria related to the importan
 <img src="/Images/Instruments_Table.png" class="center" width="608" height="599"/>
 <caption><center> <u> <font color='black'> Figure 2</u><font color='black'> : List of instruments mounted on Rover Perseverance <br> Recovered from: https://mars.nasa.gov/mars2020/spacecraft/rover/ </center></caption>
 
+When choosing the instrument, it is important to compare the various factors grouped in the table above. Regarding the **Power consumption** factor, it is observed that those related to the analysis of rocks and capture of graphic information (SHERLOC / WATSON, Mastcam-Z, SuperCam and PIXL) have a high energy consumption, and by far there is the chemical conversion instrument, which consumes the most (300 W). The MEDA and RIMFAX are among the least energy consumption, therefore, within this factor, they are possible candidates to choose from.
 
+The **Mass** factor is important when selecting an instrument, based on the maneuverability that the autonomous unit will have during its routine, in turn with the power that the actuators will have to exert to move the system. All the instruments, with the exception of the MOXIE, have masses that vary between 1.6 kg (SHERLOC / WATSON) up to 6 kg (MEDA). Although these are considerable masses, the weight of a body on Mars is only a third of what it has on Earth, so this may be within a good degree of acceptance.
+
+Finally, taking into account the **Measured variables or main objective** factor, it is important to note the homogeneity of the information captured and the position from which the information is captured. The first 4 instruments listed in the table will not increase their efficiency in capturing information if they are distributed throughout the area, since it is enough to take the samples from the Rover directly, in addition to the issue about the amount of energy each one consumes, especially the MOXIE.
+
+This leaves us with the last two candidates: MEDA and RIMFAX. A large part of the variables obtained by MEDA are uniform, at least within a large spatial range on the Mars surface, and the variations that would be obtained when positioning several of these sensors in autonomous units whose maximum distance radius with respect to the ROVER does not would exceed 500 m (for communication issues) are minimal or imperceptible. This indicates that, similar to the factor previously addressed, the efficiency in information capture would not increase.
+
+On the other hand, the information captured by the RIMFAX depends on the place where the mobile is placed, so that the information ratio obtained increases depending on the amount that is spread out, finally causing the efficiency of information capture to increase.
 
 
 
