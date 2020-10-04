@@ -76,6 +76,8 @@ These robots would have the following elements for Martian exploration:
 These robots would reach the Martian surface through a similar capsule in which astronauts from the Apollo 11 mission arrived. When you opened the gate, they would go out in different directions in search of water sources.
 
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 ### Modelo 3D
 ### Videos de interacción con el modelo 3d
 ### Posible impacto en la misión de Marte
