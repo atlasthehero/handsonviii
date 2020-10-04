@@ -79,7 +79,7 @@ These robots would reach the Martian surface through a similar capsule in which 
 
 e^{i \pi} = -1
 
-<img src="https://render.githubusercontent.com/render/math?math= E=A*\eta*\phi*P_{r}">
+<img src="https://render.githubusercontent.com/render/math?math=E = A * \eta * \phi * P_{r}">
 
 ### Modelo 3D
 ### Videos de interacción con el modelo 3d
