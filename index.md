@@ -21,7 +21,9 @@ Even tho, we had done several personal projects about aerospace and aerodynamic 
 
 ### Cientific and technical process 
 
-At first, we identify the most important variables that humans are looking for in the exploration of Mars. There we found that the most valuable thing it's water, because the development of life is extremely related with water sources, and it's a key factor for the colonization of Mars.
+At first, we identify the most important variables that humans are looking for in the exploration of Mars. To do this, we base ourselves on the 4 scientific objectives that the Mars Exploration Program has as its principle
+
+There we found that the most valuable thing it's water, because the development of life is extremely related with water sources, and it's a key factor for the colonization of Mars.
 
 From there, we investigate which artifact could identify water below the surface, and found out that the Rover recently sent to Mars, Perseverance, has a module that can do such task. This module it's called RIMFAX and...
 
