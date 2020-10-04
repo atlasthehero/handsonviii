@@ -25,10 +25,23 @@ At first, we identify the most important variables that humans are looking for i
 
 <img src="Nasa_Objectives.png" class="center" width="1300" height="300"/>
 <caption><center> <u> <font color='black'> Figure 1 </u><font color='black'> : Scientifc Objective of Mars Exploration Program <br> Recovered from: https://mars.nasa.gov/mars2020/mission/overview/ </center></caption>
- 
-There we found that the most valuable thing it's water, because the development of life is extremely related with water sources, and it's a key factor for the colonization of Mars.
 
-From there, we investigate which artifact could identify water below the surface, and found out that the Rover recently sent to Mars, Perseverance, has a module that can do such task. This module it's called RIMFAX and...
+These include those related to the search for biosignatures and caching samples, as they are those that come into action when linking them with engineering applications that facilitate such processes, like the implementation of a device or artifact capable of complying with these challenges.
+
+In order to make our autonomous system essentially useful for the mission, we identified all the instruments mounted on the Rover Perseverance, each with unique functions (which can even include several transducers and among other maneuverability devices, as is the case of the turret or robotic arm), in order to determine which of these could be distributed throughout the area in various autonomous units, in a way that allows to collect more valuable information in the shortest possible time, while allowing to increase the range of possibilities in which some data of great impact for the scientific community can be observed and captured. []
+
+To choose this instrument, we are based on some criteria related to the importance that this instrument brings within the objectives, weight and energy consumption. This categorization is based on the need to have a reduced body volume of each autonomous unit, which brings with it a low energy consumption inherent to the reduced load capacity. The following table contains specific information from the various instruments regarding the criteria mentioned above:
+
+
+
+
+
+
+
+
+
+
+
 
 As soon as we set the goal, we began to brainstorm possible solutions involving the RIMFAX module to find water on Mars. From this process we conclude that this task must be carried out efficiently and quickly, since finding water on Mars would exponentially accelerate the colonization of that planet. By priority, we propose a swarm of autonomous collaborative robots, capable of exploring the entire surface of Mars.
 
