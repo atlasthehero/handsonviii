@@ -106,6 +106,8 @@ In general, the various Martian exploration missions land on latitudes ranging f
  <br>
  <br/>
  
+ 
+ 
 ### Modelo 3D
 ### Videos de interacción con el modelo 3d
 ### Posible impacto en la misión de Marte
@@ -116,35 +118,5 @@ In general, the various Martian exploration missions land on latitudes ranging f
 
 ======================================================================================
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
- 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Documentation-
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atlasthehero/handsonviii/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Thanks for reading us!
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
