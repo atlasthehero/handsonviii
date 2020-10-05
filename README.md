@@ -143,16 +143,9 @@ Based on the latitude range between -30 ° and 30 °, the average of the power o
 <br>
 <br/>
 
-
- 
-
-### Videos with 3D model interaction
-
 ### Greatest impacts of the proposal into future Mars missions
 
 As mentioned above, after the selection of RIMFAX as the main instrument coupled to the autonomous units, the most significant impact on the mission is to collect more data in less time, which in turn represents greater heterogeneity in the information acquired, since evaluating multiple positions the possibilities of finding greater underground resources increase substantially, making this process an efficient obtaining and at the same time, useful information for the investigation about the geological conditions of the place, including possible underwater channels. More generally, the autonomous units will inform the Rover about the terrain conditions thanks to the LIDAR system, so that it can be evaluated how rugged the terrain may be, even allowing a detailed mapping of the exploration site for future human colonies. 
-
-### Video
 
 ======================================================================================
 
