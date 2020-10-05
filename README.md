@@ -111,6 +111,41 @@ Based on the latitude range between -30 ° and 30 °, the average of the power o
  
 ### 3D Model
 
+**_The following images shows many point of views of the final product, which includes all of the mentioned features above_**:
+
+<img src="/Images/3D_Models/6.png" class="center" width="1280" height="720"/>
+<caption><center> <u> <font color='black'> Figure 6</u><font color='black'> : 3D design of the autonomous unit </center></caption>
+ 
+<br>
+<br/>
+
+<img src="/Images/3D_Models/2.png" class="center" width="1280" height="720"/>
+<caption><center> <u> <font color='black'> Figure 7</u><font color='black'> : Mechanum wheels of the traction system</center></caption>
+
+<br>
+<br/>
+
+<img src="/Images/3D_Models/3.png" class="center" width="1280" height="720"/>
+<caption><center> <u> <font color='black'> Figure 8</u><font color='black'> : Front view of the model </center></caption>
+ 
+<br>
+<br/>
+
+<img src="/Images/3D_Models/4.png" class="center" width="1280" height="720"/>
+<caption><center> <u> <font color='black'> Figure 9</u><font color='black'> : Side view of the model </center></caption>
+ 
+<br>
+<br/>
+
+<img src="/Images/3D_Models/5.png" class="center" width="1280" height="720"/>
+<caption><center> <u> <font color='black'> Figure 10</u><font color='black'> : Top view of the model </center></caption>
+ 
+<br>
+<br/>
+
+
+ 
+
 ### Videos with 3D model interaction
 
 ### Greatest impacts of the proposal into future Mars missions
