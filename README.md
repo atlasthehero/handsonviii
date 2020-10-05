@@ -21,7 +21,7 @@ Even tho, we had done several personal projects about aerospace and aerodynamic 
 
 ### Cientific and technical process 
 
-At first, we identify the most important variables that humans are looking for in the exploration of Mars. To do this, we base ourselves on the 4 scientific objectives that the Mars Exploration Program has as its principle:
+At first, we identify the most important variables that humans are looking for in the exploration of Mars. To do this, we base ourselves on the 4 scientific objectives that the Mars Exploration Program has as its principle: HERE
 
 <img src="Images/Nasa_Objectives.png" class="center" width="1365" height="518"/>
 <caption><center> <u> <font color='black'> Figure 1 </u><font color='black'> : Scientifc Objective of Mars Exploration Program <br> Source:  <a> href="https://mars.nasa.gov/mars2020/mission/overview/" title="Mission overview">NASA-Perseverance mission overview</a> </center></caption>
