@@ -108,6 +108,13 @@ In general, the various Martian exploration missions land on latitudes ranging f
  
 Based on the latitude range between -30 ° and 30 °, the average of the power obtained for <img src="https://render.githubusercontent.com/render/math?math=1 m^{2}"> of panel surface, in all seasons of the year, is obtained 1224.19 W. The current design considers a rectangular area of 15cm * 9cm, distributed between the side, front and rear edges, resulting in a useful area of approximately 0.054 <img src="https://render.githubusercontent.com/render/math?math=1 m^{2}">. Performing a simple proportional calculation, for this area 66.11 W are obtained, which is more than enough for what the complete system requires, since the RIMFAX consumes at most 10 W, and the 4 motors combined would apply relatively low torques thanks to their reductions mechanical, so that consumption would not come close to the amount of energy delivered.
  
+
+### AquaSeeker Flowchart
+
+**_The following image describes the operational routine of the autonomous unit, from its initial state_**:
+
+<img src="/Images/Flowchart.jpeg" class="center" width="1023" height="1280"/>
+<caption><center> <u> <font color='black'> Figure 6</u><font color='black'> : Flowchart of the AquaSeeker operational routine </center></caption>
  
 ### 3D Model
 
