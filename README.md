@@ -23,7 +23,7 @@ Even tho, we had done several personal projects about aerospace and aerodynamic 
 
 At first, we identify the most important variables that humans are looking for in the exploration of Mars. To do this, we base ourselves on the 4 scientific objectives that the Mars Exploration Program has as its principle:
 
-img src="/Images/Nasa_Objectives.png" class="center" width="1300" height="300"/>
+<img src="/Images/Nasa_Objectives.png" class="center" width="1300" height="300"/>
 <caption><center> <u> <font color='black'> Figure 1 </u><font color='black'> : Scientifc Objective of Mars Exploration Program <br> Source:  <a href="https://mars.nasa.gov/mars2020/mission/overview/" title="Mission overview">NASA-Perseverance mission overview</a> </center></caption>
  
  <br>
@@ -106,7 +106,7 @@ In general, the various Martian exploration missions land on latitudes ranging f
  <br>
  <br/>
  
- 
+Based on the latitude range between -30 ° and 30 °, the average of the power obtained for <img src="https://render.githubusercontent.com/render/math?math=1 m^{2}"> of panel surface, in all seasons of the year, is obtained 1224.19 W. The current design considers a rectangular area of 15cm * 9cm, distributed between the side, front and rear edges, resulting in a useful area of approximately 0.054 <img src="https://render.githubusercontent.com/render/math?math=1 m^{2}">. Performing a simple proportional calculation, for this area 66.11 W are obtained, which is more than enough for what the complete system requires, since the RIMFAX consumes at most 10 W, and the 4 motors combined would apply relatively low torques thanks to their reductions mechanical, so that consumption would not come close to the amount of energy delivered.
  
  
 ### Modelo 3D
